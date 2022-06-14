@@ -8,8 +8,9 @@ We use the following methods for the analysis:
 - optimize the model.
 
 ## Resources
-- Data Source: [charity_data.csv](https://github.com/CGFS93/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv)
-- Software: Python, Anaconda Navigator, Conda, Jupyter Notebook.
+**Data Source:** [charity_data.csv](https://github.com/CGFS93/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv)
+
+**Software:** Python, Anaconda Navigator, Conda, Jupyter Notebook.
 
 ## Results
 
